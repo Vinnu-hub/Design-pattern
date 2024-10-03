@@ -26,7 +26,7 @@ public class CompositeTest {
         computer.addComponent(peripherals);
 
         // Displaying details
-        peripherals.showprice();
+        computer.showprice();
 
         //Computer.showprice();
         //Cabinet.showprice();
